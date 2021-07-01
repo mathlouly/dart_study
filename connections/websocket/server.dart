@@ -5,7 +5,7 @@ void main(List<String> args) async {
     server.listen((HttpRequest request) async {
       await WebSocketTransformer.upgrade(request).then((WebSocket socket) {
         socket.listen((data) {
-          socket.add(data);
+          if (data == 'ola') socket.add('Olaaaa');
           print(data);
         });
       });
