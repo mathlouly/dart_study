@@ -1,37 +1,37 @@
-# Dart Study
+# Estudo do Dart
 
 [![en](https://img.shields.io/badge/lang-en--us-red)](https://github.com/mathlouly/dart_study/blob/main/README.md)
 
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green)](https://github.com/mathlouly/dart_study/blob/main/README.md)
 
-This repository has a model of improving my knowledge of dart through examples.
+Este repositório tem um modelo de aprimoramento do meu conhecimento sobre Dart por meio de exemplos.
 
-## 💻 Requirements
+## 💻 Requisitos
 
-Before starting, you need to check that you already have the Dart SDK installed and that your version is the same as the examples.
+Antes de começar, você precisa verificar se já tem o SDK do Dart instalado e se a sua versão é a mesma dos exemplos.
 
 - [Dart SDK](https://dart.dev/get-dart)
 
-Version Dart SDK: `2.12.0 (stable)"`
+Versão Dart SDK: `2.12.0 (stable)"`
 
 
-## 👩‍💻 Usage
+## 👩‍💻 Uso
 
-To use it you need to navigate to an example folder and use the command below.
+Para usar, você precisa navegar até a pasta do exemplo e usar o comando abaixo.
 ```
 dart <path>/file.dart
 ```
-Note - Start the server first and then the client
+Observação - Sempre executar o servidor antes do cliente.
 
 
-## ☕ Examples
+## ☕ Exemplos
 
 * [Socket](https://github.com/mathlouly/dart_study/tree/main/connections/socket)
 
 * [WebSocket](https://github.com/mathlouly/dart_study/tree/main/connections/websocket)
 
 
-## 📪 Contact
+## 📪 Contato
 
 * Discord `mathlouly#0007`
 
