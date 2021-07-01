@@ -1,7 +1,6 @@
 # Dart Study
 
 [![en](https://img.shields.io/badge/lang-en--us-red)](https://github.com/mathlouly/dart_study/blob/main/README.md)
-
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green)](https://github.com/mathlouly/dart_study/blob/main/README.md)
 
 This repository has a model of improving my knowledge of dart through examples.
