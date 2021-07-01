@@ -9,7 +9,7 @@ Before you start if you have the Dart SDK and the version used in these examples
 
 - [Dart SDK](https://dart.dev/get-dart)
 
-Version Dart SDK: `2.12.0 (stable) (Thu Feb 25 19:50:53 2021 +0100) on "windows_x64"`
+Version Dart SDK: `2.12.0 (stable)"`
 
 
 ## 👩‍💻 Usage
