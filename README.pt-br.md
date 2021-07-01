@@ -13,7 +13,6 @@ Antes de começar, você precisa verificar se já tem o SDK do Dart instalado e 
 
 Versão Dart SDK: `2.12.0 (stable)"`
 
-
 ## 👩‍💻 Uso
 
 Para usar, você precisa navegar até a pasta do exemplo e usar o comando abaixo.
@@ -22,13 +21,11 @@ dart <path>/file.dart
 ```
 Observação - Sempre executar o servidor antes do cliente.
 
-
 ## ☕ Exemplos
 
 * [Socket](https://github.com/mathlouly/dart_study/tree/main/connections/socket)
 
 * [WebSocket](https://github.com/mathlouly/dart_study/tree/main/connections/websocket)
-
 
 ## 📪 Contato
 
