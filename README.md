@@ -29,6 +29,6 @@ Note - Start the server first and then the client
 * [WebSocket](https://github.com/mathlouly/dart_study/tree/main/connections/websocket)
 
 
-## 📞 Contact
+## 📪 Contact
 
 * Discord `mathlouly#0007`
